@@ -1,5 +1,6 @@
 #me
 .idea/
+.env-train/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
