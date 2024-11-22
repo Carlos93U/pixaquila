@@ -1,6 +1,7 @@
 #me
 .idea/
-.env-train/
+env-yolo/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
